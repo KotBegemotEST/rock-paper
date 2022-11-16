@@ -1,0 +1,10 @@
+C:\Users\buket\source\repos\rock-paper\rock-paper\obj\Debug\rock-paper.csprojAssemblyReference.cache
+C:\Users\buket\source\repos\rock-paper\rock-paper\obj\Debug\rock_paper.Form1.resources
+C:\Users\buket\source\repos\rock-paper\rock-paper\obj\Debug\rock_paper.Properties.Resources.resources
+C:\Users\buket\source\repos\rock-paper\rock-paper\obj\Debug\rock-paper.csproj.GenerateResource.cache
+C:\Users\buket\source\repos\rock-paper\rock-paper\obj\Debug\rock-paper.csproj.CoreCompileInputs.cache
+C:\Users\buket\source\repos\rock-paper\rock-paper\bin\Debug\rock-paper.exe.config
+C:\Users\buket\source\repos\rock-paper\rock-paper\bin\Debug\rock-paper.exe
+C:\Users\buket\source\repos\rock-paper\rock-paper\bin\Debug\rock-paper.pdb
+C:\Users\buket\source\repos\rock-paper\rock-paper\obj\Debug\rock-paper.exe
+C:\Users\buket\source\repos\rock-paper\rock-paper\obj\Debug\rock-paper.pdb
